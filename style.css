@@ -1,0 +1,20 @@
+body{
+    background-image: url(Background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+    color: white;
+}
+h1{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rosybrown;
+    text-decoration: underline;
+}
